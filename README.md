@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SaraSavvy
 - 👀 I’m interested data science, quantum mechanics and mathematics 
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: You can't 
 - 😄 Pronouns: Her, She
 - ⚡ Fun fact: I was a YouTuber 
 
